@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @JoudKaddour
-- 👀 I’m interested in app and web designing and developing
-- 🌱 I’m currently learning Java, C++
-- 💞️ I’m looking to collaborate on Android Studio
-- 📫 How to reach me (Link to Google Developer Profile : https://developers.google.com/profile/u/114372868410532835773?authuser=1&utm_source=developer.android.com)
+- 👀 I’m interested in Wiki making
+- 🌱 I’m currently learning Wikitext
+- 💞️ I’m looking to collaborate on ml-bang-bang.fandom.com/wiki/MLBB_Wiki
+- 📫 How to reach me (Contact me on email : jojojkjk2010@gmail.com)
 
 <!---
 JoudKaddour/JoudKaddour is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
